@@ -9,7 +9,7 @@
 
 #### Project
 
-Alvie - Your dependendable business assistant
+Estate Intel Recruitment Test
 
 #### Requirements
 
